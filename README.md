@@ -1,5 +1,5 @@
-- 👋 Olá meu nome é @Mozilada
-- 👍 Meu email de contato é juliane.paula.souza@escola.pr.gov.br
+- 👋 Olá meu nome é **@Mozilada**
+- 👍 Meu email de contato é [email](juliane.paula.souza@escola.pr.gov.br)
 - 👀 Eu estou interessada em aprender novas linguagens de programação
 - 🌱 Estou aprendendo a programar recentemente a linguagem JavaScript e Scratch
 
